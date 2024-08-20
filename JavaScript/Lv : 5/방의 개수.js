@@ -1,3 +1,5 @@
+// 그래프 방의 개수
+
 class Pair {
     constructor(x, y) {
         this.x = x;
