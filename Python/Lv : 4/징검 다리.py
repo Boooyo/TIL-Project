@@ -1,3 +1,5 @@
+# 이분 탐색 징검 다리
+
 def solution(distance, rocks, n):
     left = 1
     right = distance
