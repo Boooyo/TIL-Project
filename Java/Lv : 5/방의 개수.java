@@ -1,3 +1,5 @@
+// 그래프 방의 개수
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Objects;
